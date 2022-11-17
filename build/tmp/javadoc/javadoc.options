@@ -1,0 +1,10 @@
+-locale 'en_US'
+-classpath '/Users/kazuakiurayama/github/directoryutil/build/classes/java/main:/Users/kazuakiurayama/github/directoryutil/build/resources/main:/Users/kazuakiurayama/github/dotfiles/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.3/deef7fc81f00bd5e6205bb097be1040b4094f007/slf4j-api-2.0.3.jar'
+-d '/Users/kazuakiurayama/github/directoryutil/build/docs/javadoc'
+-doctitle 'directoryutil 0.1.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'directoryutil 0.1.0-SNAPSHOT API'
+'/Users/kazuakiurayama/github/directoryutil/src/main/java/com/kazurayam/directoryutil/DeleteDir.java'
+'/Users/kazuakiurayama/github/directoryutil/src/main/java/com/kazurayam/directoryutil/CopyDir.java'
